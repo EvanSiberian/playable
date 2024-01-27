@@ -1,7 +1,7 @@
 *.code-workspace
 /.vscode
 /.parcel-cache
-/dist
+# /dist
 /node_modules
 /package-lock.json
 yarn.lock
